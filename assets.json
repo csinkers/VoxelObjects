@@ -1,0 +1,12 @@
+{ 
+  "Files": {
+    "MapObjects": {
+      "Loader": "mesh",
+      "Container": "dir",
+      "Pattern": "{id}_{name}.obj",
+      "Map": { "1": { "Id": "3dobj.1" } }
+    }
+  }
+}
+// vim: tabstop=2 shiftwidth=2 expandtab
+

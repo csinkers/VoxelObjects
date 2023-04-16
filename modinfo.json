@@ -1,0 +1,7 @@
+{
+  "Name": "Voxel Objects",
+  "Description": "3D Voxel-based replacements for various map objects",
+  "Version": "0.1.0",
+  "Dependencies": [ "Albion" ],
+  "InheritAssetConfigFrom": "Base"
+}
